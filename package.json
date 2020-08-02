@@ -1,0 +1,25 @@
+{
+  "name": "open-source-js-library-demo",
+  "version": "1.0.0",
+  "description": "Open Source JavaScript Library Demo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daint2git/open-source-JS-library-demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "daint2 <daint2dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daint2git/open-source-JS-library-demo/issues"
+  },
+  "homepage": "https://github.com/daint2git/open-source-JS-library-demo#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
