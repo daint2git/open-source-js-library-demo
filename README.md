@@ -48,6 +48,7 @@ git diff
 ### Version beta
 
 1. package.json
+
 ```json
 {
   "version": "1.2.0-beta.0"
@@ -55,16 +56,19 @@ git diff
 ```
 
 2. git tag
+
 ```bash
 git tag 1.2.0-beta.0
 ```
 
 3. npm publish
+
 ```bash
 npm publish --tag beta
 ```
 
 4. Install
+
 ```bash
 # "open-source-js-library-demo": "^1.2.0-beta.0"
 yarn add open-source-js-library-demo@beta
