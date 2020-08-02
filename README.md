@@ -34,3 +34,13 @@ git push --tags
 ```bash
 git diff
 ```
+
+### Version beta
+
+```
+# package.json
+"version": "1.2.0-beta.0",
+
+# git CLI
+git tag 1.2.0-beta.0
+```
