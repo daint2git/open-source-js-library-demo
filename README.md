@@ -37,10 +37,19 @@ git diff
 
 ### Version beta
 
+1. package.json
+```json
+{
+  "version": "1.2.0-beta.0"
+}
 ```
-# package.json
-"version": "1.2.0-beta.0",
 
-# git CLI
+2. git tag
+```bash
 git tag 1.2.0-beta.0
+```
+
+3. npm publish
+```bash
+npm publish --tag beta
 ```
