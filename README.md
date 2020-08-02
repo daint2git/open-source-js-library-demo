@@ -28,3 +28,9 @@ git tag -d 1.0.0
 # push into Remote Git tags
 git push --tags
 ```
+
+### Diff
+
+```bash
+git diff
+```
